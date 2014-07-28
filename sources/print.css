@@ -1,0 +1,8 @@
+@media print{
+*{background:#fff !important; color:#000 !important;}
+#my-orders-table tfoot td{background:#fff !important; color:#000 !important;}
+#header,#side_panel,.footer-container {display:none}
+#content {float:none; margin:0 auto;}
+}
+
+
